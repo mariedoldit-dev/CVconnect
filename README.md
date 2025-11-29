@@ -1,5 +1,5 @@
-# AletOkap
-À Cap-Haïtien, la sécurité reste encore meilleure qu’à Port-au-Prince, mais les citoyens manquent d’un outil fiable pour partager et recevoir des informations en temps réel sur les incidents autour d’eux. AlètOkap apporte une solution en permettant de signaler rapidement un incident avec localisation et photo/vidéo, d’alerter la communauté par notifications, et de visualiser les zones à risque sur une carte interactive, favorisant ainsi la vigilance et la prévention collective.
+# CV Connect
+Une 
 
 # Membres du groupe
 - Esther Love Prisnie Desravines
